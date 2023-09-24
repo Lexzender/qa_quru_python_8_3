@@ -1,3 +1,3 @@
 first-file.txt
 
-отредактировал в ветке feature
+Отредактировал в ветке feature!
