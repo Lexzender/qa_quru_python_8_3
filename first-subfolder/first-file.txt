@@ -1,5 +1,3 @@
 first-file.txt
 
-Отредактировал в ветке feature
-
-Отредактировал в ветке new_branch
+Отредактировал в ветке feature!
